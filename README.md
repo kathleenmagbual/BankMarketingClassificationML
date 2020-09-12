@@ -2,7 +2,7 @@
 Repo for Data Science/Analytics Projects
 
 
-**Developed a machine learning classification algorithm to predict  if a client  will subscribe in a bank term deposit.**
+**Developed machine learning classification algorithms to predict  if a client  will subscribe in a bank term deposit.**
 - KNN
 - Decision Tree
 - Random Forest
